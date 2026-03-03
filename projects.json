@@ -1,0 +1,192 @@
+{
+   "AutoScout24.nl": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "rabota1601",
+            "projects"
+         ]
+      },
+      "work_subfolder": "code"
+   },
+   "BuildCentral": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": []
+      },
+      "work_subfolder": "src"
+   },
+   "GAgent": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "gemini",
+            "nvda-addon"
+         ]
+      },
+      "work_subfolder": "src"
+   },
+   "UnigramCacheCleaner": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "UnigramCacheCleaner"
+         ]
+      },
+      "work_subfolder": "UnigramCacheCleaner"
+   },
+   "VoiceRingSelector": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "VoiceRingSelector"
+         ]
+      },
+      "work_subfolder": "src"
+   },
+   "aiowhatsapp": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "Incust"
+         ]
+      },
+      "work_subfolder": "aiowhatsapp"
+   },
+   "ballH60": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": []
+      },
+      "work_subfolder": "ballH60"
+   },
+   "barsik": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": []
+      },
+      "work_subfolder": "barsik"
+   },
+   "bot-band": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "crypto_arbitraz",
+            "tz",
+            ""
+         ]
+      },
+      "work_subfolder": "backend/src"
+   },
+   "clean-architecture-test": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "topizda.to"
+         ]
+      },
+      "work_subfolder": null
+   },
+   "crunchbase-scraper": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "the_Con10T_Labs"
+         ]
+      },
+      "work_subfolder": "src"
+   },
+   "flatter": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": []
+      },
+      "work_subfolder": null
+   },
+   "pay4say": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "Incust"
+         ]
+      },
+      "work_subfolder": "bot"
+   },
+   "psutils": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "Incust"
+         ]
+      },
+      "work_subfolder": "psutils"
+   },
+   "radio-collection-service": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": []
+      },
+      "work_subfolder": "src"
+   },
+   "radioCenter": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "radioCenter"
+         ]
+      },
+      "work_subfolder": "radioCenter"
+   },
+   "realTesseractOCR": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "realTesseractOCR"
+         ]
+      },
+      "work_subfolder": "realTesseractOCR"
+   },
+   "vc-board": {
+      "project_path": {
+         "startdir": "working_dir",
+         "subfolders": [
+            "topizda.to"
+         ]
+      },
+      "work_subfolder": null
+   },
+   "weekday": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "weekday"
+         ]
+      },
+      "work_subfolder": "weekday"
+   },
+   "winOCR": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "winOCR"
+         ]
+      },
+      "work_subfolder": "winOCR"
+   },
+   "wordcraft": {
+      "project_path": {
+         "startdir": "projects_dir",
+         "subfolders": [
+            "nvda",
+            "wordcraft"
+         ]
+      },
+      "work_subfolder": "wordcraft"
+   }
+}
